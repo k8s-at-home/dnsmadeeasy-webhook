@@ -7,7 +7,7 @@ require (
 	github.com/mhenderson-so/godnsmadeeasy v0.0.0-20161117210134-6c4a59b67887
 	k8s.io/apiextensions-apiserver v0.19.10
 	k8s.io/apimachinery v0.19.10
-	k8s.io/client-go v0.19.10
+	k8s.io/client-go v0.21.1
 )
 
 //replace github.com/prometheus/client_golang => github.com/prometheus/client_golang v0.9.4
