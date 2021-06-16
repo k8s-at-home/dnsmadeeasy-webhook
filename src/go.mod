@@ -11,4 +11,4 @@ require (
 )
 
 // To be replaced once there is a release of kubernetes/apiserver that uses gnostic v0.5. See https://github.com/jetstack/cert-manager/pull/3926#issuecomment-828923436
-replace github.com/googleapis/gnostic => github.com/googleapis/gnostic v0.4.1
+replace github.com/googleapis/gnostic => github.com/googleapis/gnostic v0.5.5
